@@ -1,0 +1,12 @@
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\bin\Debug\SeleniumTestCase.exe
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\bin\Debug\SeleniumTestCase.pdb
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\obj\x86\Debug\SeleniumTestCase.exe
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\obj\x86\Debug\SeleniumTestCase.pdb
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\bin\Debug\WebDriver.dll
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\bin\Debug\WebDriver.Support.dll
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\bin\Debug\WebDriver.pdb
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\bin\Debug\WebDriver.xml
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\bin\Debug\WebDriver.Support.pdb
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\bin\Debug\WebDriver.Support.xml
+c:\users\landy.wang\documents\visual studio 2010\Projects\SeleniumTestCase\SeleniumTestCase\bin\Debug\IEDriverServer.exe
